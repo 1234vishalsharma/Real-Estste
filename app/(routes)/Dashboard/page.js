@@ -5,7 +5,6 @@ function Dashboard() {
   return (
     <div>
       <Header/>
-
       <Banner/>
     </div>
   )
